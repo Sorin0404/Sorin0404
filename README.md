@@ -1,10 +1,10 @@
-# Sorin44
+### Profile
+## 이름: 이해용
+## 생년월일: 1989.04.04
 
+# 개발자가 되기 위해 현재 공부중입니다.
+# 잘 부탁드립니다.
 
-<h1>Profile </h1>
-<p>이름: 이해용</p>
-<p>생년월일: 1989.04.04<p>
-<p>좋아하는 것: 컴퓨터 게임</p>
 
 <p> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
