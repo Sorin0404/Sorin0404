@@ -24,5 +24,5 @@ Email Address: haewong27@gmail.com
 
 <p>
     <a href="mailto:haewong27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/haewong27@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/feed/?legoTrackingToken=c34ZpnFFkTBxr71PqmgCc2UMfmlOrSdjtOoZsC5gr6litOoZp6Zdr6litOoVejAVejRApnhPpnlNpl9JtmUCjAZ9l4BjjR0Zuk9OpmhOjThBpShFtOpHsCZTnSZQnSVBs6ZvcDpAon1EoSVRomMZp4BQpmtAqnsCcjRKrSBQqndLk7hBpShFtOoMbz0Zpn9LoRdOpOoZsC5gr6lisCsCfmhLjmNBkD9D9z0ZrCZFt6BPrR1MtmZOpOoVejAVejRApnhPpnlNpl9JtkVMtmZOpOpPrCZFt6dxfmh9s7lLsCsCjAZ9l4BjjR0Zuk9OpmhOrOpQr7lxpClAfmh9t6VBrmtBsOpPoCZGfmh9t6ZIsOpQr7lxpClAfmh9t7lLum5I9z9Sp65Mq6dKtm5IfmlJokVBpS5M9CxQtSZOpPRAin1MoioSdz8NejRAimVLqndOpnoCejgNdjwVd3sVfmh9tipAczpxdPcNcPkUc3sJpjdBoiQPdzoQbjdBdP0JdSpyd6kUpC8Zp4BQu6lQrCZz&trk=opento_lp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
+    <a href="www.linkedin.com/in/해용-이-62562b232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
 <p>
