@@ -7,7 +7,7 @@
 <p>좋아하는 것: 컴퓨터 게임</p>
 
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=CSS&logoColor=blue"/>
+<img src="https://img.shields.io/badge/CSS-3DDC84?style=flat-square&logo=CSS&logoColor=blue"/>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=이해용&fontSize=50)
 
