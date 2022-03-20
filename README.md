@@ -24,5 +24,5 @@ Email Address: haewong27@gmail.com
 
 <p>
     <a href="mailto:haewong27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/haewong27@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="www.linkedin.com/in/해용-이-62562b232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
+    <a href="www.linkedin.com/in/HaeYongLee44" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
 <p>
