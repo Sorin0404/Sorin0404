@@ -13,16 +13,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
 
-Email Address: haewong27@gmail.com
-
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=이해용&fontSize=50)
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
 
 <p>
     <a href="mailto:haewong27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/haewong27@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="www.linkedin.com/in/HaeYongLee44" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
+    <a href="www.linkedin.com/in/HaeYongLee44" target="_blank"><img src="https://img.shields.io/badge/HaeYongLee-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>  
 <p>
