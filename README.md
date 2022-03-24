@@ -1,6 +1,6 @@
-### 안녕하세요. 👋
-### 개발자가 되기 위해 현재 공부중입니다.
-### 잘 부탁드립니다.
+### Hi there. 👋
+### I'm learning basic code to be engineer.
+### Thank you for visiting my github page.
 
 
 
