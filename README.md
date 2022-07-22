@@ -1,10 +1,14 @@
 ### Hi there. 👋
 ### I'm learning Programming language to be a Frontend Developer.
 ### Thank you for visiting my github page.
+-----
+
+[![Sorin0404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorin0404&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorin0404&layout=compact&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-Skill
+-----
+#### Skill
 <p> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
@@ -14,8 +18,8 @@ Skill
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
 </p>
 
-
-About Me
+-----
+#### About Me
 <p>
   <a href="mailto:haewong27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/haewong27@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
