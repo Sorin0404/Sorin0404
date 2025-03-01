@@ -1,5 +1,5 @@
 ### Hi there. 👋
-### I'm learning Programming language to be a Frontend Developer.
+### I'm a Frontend Developer.
 ### Thank you for visiting my github page.
 -----
 
